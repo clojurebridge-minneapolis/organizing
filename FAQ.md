@@ -27,9 +27,9 @@ Frequently Asked Questions about organizing [ClojureBridge Minneapolis](README.m
 6. How can I get in touch with local Clojure people _right now_?
 
    We are hanging out on [IRC](http://freenode.net/using_the_network.shtml).
-   You can find the (inter)national organizers hanging out on Freenode on *#clojurebridge*
+   You can find the (inter)national organizers hanging out on Freenode on **#clojurebridge** <br/>
    The local Clojure user's group channel double's as a location to chat
-   about ClojureBridge *#clojure.mn*
+   about ClojureBridge **#clojure.mn**
 
 7. Is there a local Clojure User's group?
 
