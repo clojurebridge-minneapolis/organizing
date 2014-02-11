@@ -15,6 +15,10 @@ Check out...
 * RailsBridge resources
   * [RailsBridge Cookbook](https://github.com/railsbridge/docs/wiki/Cookbook)
 
+## News
+
+* mention in the [Girls in Tech Minneapolis](http://gitmsp.org/) February [newsletter](http://eepurl.com/MnLAP)
+
 ## Events
 
 Here are some upcoming events of interest
