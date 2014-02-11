@@ -15,6 +15,15 @@ Check out...
 * RailsBridge resources
   * [RailsBridge Cookbook](https://github.com/railsbridge/docs/wiki/Cookbook)
 
+## Events
+
+Here are some upcoming events of interest
+
+* **Wed 2/12** [Capital Code Ideation](https://www.eventbrite.com/e/capitol-code-ideation-jam-tickets-10426129835)
+* **Thu 2/13** [minnedemo](http://minnestar.org/minnedemo/)
+* **Wed 3/5** [clojure.mn](http://clojure.mn/) users group meeting: beginner's night
+* **Fri-Sat 5/17-18** ClojureBridge Minneapolis
+
 ### License
 
 The content of this repository is licensed under the public domain dedication [CC0](LICENSE).
