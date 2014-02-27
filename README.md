@@ -23,10 +23,8 @@ Check out...
 
 Here are some upcoming events of interest
 
-* **Wed 2/12** [Capital Code Ideation](https://www.eventbrite.com/e/capitol-code-ideation-jam-tickets-10426129835)
-* **Thu 2/13** [minnedemo](http://minnestar.org/minnedemo/)
 * **Wed 3/5** [clojure.mn](http://clojure.mn/) users group meeting: beginner's night
-* **Fri-Sat 5/17-18** ClojureBridge Minneapolis
+* **Fri-Sat 5/16-17** ClojureBridge Minneapolis
 
 ### License
 
