@@ -23,7 +23,6 @@ Check out...
 
 Here are some upcoming events of interest
 
-* **Wed 3/5** [clojure.mn](http://clojure.mn/) users group meeting: beginner's night
 * **Fri-Sat 5/16-17** ClojureBridge Minneapolis
 
 ### License

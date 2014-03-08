@@ -4,7 +4,7 @@ Frequently Asked Questions about organizing [ClojureBridge Minneapolis](README.m
 
 1. **When will the workshop be held?**
 
-   The tentative date is May 17-18, 2014
+   The tentative date is May 16-17, 2014
 
 2. **Where will ClojureBridge be located?**
 
