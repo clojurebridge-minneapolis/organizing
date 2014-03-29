@@ -3,6 +3,10 @@
 This repository is indended to support the volunteer organizers
 for the upcoming ClojureBridge workshop in Minneapolis.
 
+## Want to help?
+
+Join the [organizers' mailing list](http://lists.info9.net/mailman/listinfo/clojurebridge-minneapolis)!
+
 ## Resources
 
 Check out...
