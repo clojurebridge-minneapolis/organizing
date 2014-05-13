@@ -2,4 +2,4 @@ Documentation
 =============
 
 * [Agenda](agenda.pdf)
-* ![badge.svg](badge.svg)
+* <img src="badge.svg" alt="[badge]"/>
