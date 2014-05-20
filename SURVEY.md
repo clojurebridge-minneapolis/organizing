@@ -68,7 +68,9 @@ Total respondants = 18
 
 # In-class question responses
 
-*How did you hear about ClojureBridge? (only some people answered this, teacher responses are omitted)*
+*How did you hear about ClojureBridge? (teacher responses are omitted)*
+
+We went around the room and had them answer a few questions, not everyone responded to this particular question.
 ```
 From someone at clojure.mn (5)     *****
 A friend (not from clojure.mn (5)  *****
@@ -78,7 +80,9 @@ Tech Lady Mafia (1)                *
 Java User Group (1)                *
 ```
 
-*What would you like to use Clojure for? (only some people answered this)*
+*What would you like to use Clojure for?*
+
+We just asked people to shout out responses for this.
 ```
 Data visualization and/or Big data (4)  ****
 Gaming (2)                              **
