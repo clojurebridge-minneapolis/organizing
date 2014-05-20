@@ -65,3 +65,24 @@ Total respondants = 18
   1. -
   1. I enjoyed the workshop very much! :)
   1. I really appreciate the opportunity to be here today and the people who gave their time and talent to make it possible!!
+
+# In-class question responses
+
+*How did you hear about ClojureBridge? (only some people answered this, teacher responses are omitted)*
+```
+From someone at clojure.mn (5)     *****
+A friend (not from clojure.mn (5)  *****
+RailsBridge (2)                    **
+Open Twin Cities mailing list (1)  *
+Tech Lady Mafia (1)                *
+Java User Group (1)                *
+```
+
+*What would you like to use Clojure for? (only some people answered this)*
+```
+Data visualization and/or Big data (4)  ****
+Gaming (2)                              **
+Web stuff (1)                           *
+Java interop (1)                        *
+```
+
