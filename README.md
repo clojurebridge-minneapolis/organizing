@@ -18,7 +18,7 @@ Check out...
 
 ## News
 
-* We had a successful ClojureBridge on March 6/7 (see the [survey](Spring-2015/survey.md))
+* We had a successful ClojureBridge on March 6/7 (see the [survey](Winter-2015/survey.md))
 * We are planning the next workshop on June 19/20 _tentative_
 
 ### License
