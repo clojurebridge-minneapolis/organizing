@@ -1,5 +1,8 @@
 # .gitignore
 
+# .svg
+*.svg
+
 # emacs backup files
 *~
 
