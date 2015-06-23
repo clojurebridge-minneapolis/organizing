@@ -1,7 +1,9 @@
 # ClojureBridge Minneapolis
 
-This repository is indended to support the volunteer organizers
-for the upcoming ClojureBridge workshop in Minneapolis.
+**NOTE:** Pointers to our latest version of the curriculum can be found in the [installfest](https://github.com/clojurebridge-minneapolis/installfest) repo!
+
+This repository was used support the volunteer organizers
+for the first ClojureBridge workshop in Minneapolis.
 
 ## Want to help?
 
