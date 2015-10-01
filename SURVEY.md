@@ -1,9 +1,9 @@
 # Survey results from 5/17/2014
 
-Total respondants = 18
+Total respondants = 20
 
 1. How likely are you to recommend a ClojureBridge workshop to a friend or colleage?
-  * Very likely = 16
+  * Very likely = 18
   * Somewhat likely = 2
   * Neutral = 0
   * Somehwat likely = 0
@@ -27,6 +27,8 @@ Total respondants = 18
   1. Plenty of indiv. attention from volunteers. Overall pedagogy is A+!
   1. Very informative and gave me a pretty solid understanding (I hope) of the basics of Clojure
   1. Everything! The Community of passionate progammers who want to learn and pass-on knowledge. The day was well organized. The space was perfect. The food was Fabulous. My team lead/TA.
+  1. Everything - Professionalism, warmth, patience.
+  1. Level of support and food.
 1. What should we change?
   1. Make 2 days?
   1. More time on functions before embedding them in other functions. My brain popped a little.
@@ -46,6 +48,8 @@ Total respondants = 18
   1. Introduce clojure.mn IRC (or other chat) at the start -- would be great to have class-wide discussion ability - give students ability to help each other (learn than doing) and socialize more widely). Also more likely to *keep* using it. Why is this survey on paper? Emphasize that all exercises can be done later/optional; observed some people getting frustrated b/c they didn't finish everything.
   1. More time for the functions module / a second day to fit everything in.
   1. I think putting things into context For people (especially people that are newbies). What are people/industries currently using Clojure to do? Why Clojure vs. Java, Ruby, etc.? Can I get a job iF I keep perfecting my knowledge of this one language? What should I spect to learn and do after this ClojureBridge? What should I be able to accomplish now that I have installed everything I installed the first night? What is the significance oF each oF teh software/etc. I installed? I think a one page piece that described what weach piece software/etc. did beforehand would have been helpful.
+  1. Not change, but refine - the 1st track is confusing at times (as in anything new, little tweaks)
+  1. The amount of material for Track 2 is daunting. (PT3)
 1. What else would you like us to know?
   1. Next workshop schedule, if possible
   1. I had fun :)
@@ -57,7 +61,7 @@ Total respondants = 18
   1. Thank you! This was work. thank you.
   1. Great Job - thanks! TA's were great!
   1. I would love beginner "hackathons" - do a programming idea that people can complete in 3-5 hours we can use to practice in practical ways.
-  1. recommend saving previous exercises - I lost some due to LightTable lockup and lost time trying to redo mod 5 that I needed to figure out 5. suggest reading tutorials to repapre if one is so inclined?
+  1. recommend saving previous exercises - I lost some due to LightTable lockup and lost time trying to redo mod 5 that I needed to figure out 5. suggest reading tutorials to repapre if one is so inclined?  
   1. Really helpful doing this after railsbridge.
   1. -
   1. It could be nice to start directly with functions and the basics be like the requirements to set the computer to arrived to the end of the curriculum.
@@ -65,6 +69,8 @@ Total respondants = 18
   1. -
   1. I enjoyed the workshop very much! :)
   1. I really appreciate the opportunity to be here today and the people who gave their time and talent to make it possible!!
+  1. I am very happy I attended. (gave email to be added to mailing list)
+  1. -
 
 # In-class question responses
 
