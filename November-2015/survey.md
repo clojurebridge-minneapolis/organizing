@@ -1,11 +1,11 @@
 ##ClojureBridge MN November 13-14 2015
 
 ###1. How likely are you to recommend  ClojureBridge workshop to a friend or colleague?
-- Very likely = 0 1 1 1 1 1 1 1 1
+- Very likely = 8
 - Somewhat likely = 0
 - Neutral = 0
-- Somewhat likely = 0 1
-- Very unlikely = 0 1
+- Somewhat likely = 1
+- Very unlikely = 1
 
 ###2. What was great?
 1. _Hanging out, chatting with people_
