@@ -1,9 +1,10 @@
 ##ClojureBridge MN March 2014
 
-###1. How likely are you to recommend  ClojureBridge workshop to a friend or colleague?
+### 1. How likely are you to recommend  ClojureBridge workshop to a friend or colleague?
 - Very likely - 16
 - Somewhat likely - 1 (number 14)
-###2. What was great?
+
+### 2. What was great?
 1. _People, clear (mostly) instructions, good food_
 2. _Friendly, helpful, mentors!_
 3. _I like the pace of level 1_
@@ -41,7 +42,7 @@
 16. _The tutorial materials sometimes jump around, doesn't explain enough. Also, for a totally new person, a lot of big concepts. Likely to be a risk of copying and pasting w/out knowing/understanding what you're doing._
 17. _Written instructions were confusing - seemed to jump (mini) steps_
 
-###4. What else would you like us to know?
+### 4. What else would you like us to know?
 1. _Thank you! it was great to feel successful so quickly. Too many TAs?_
 2. _na_
 3. _Practical examples_
